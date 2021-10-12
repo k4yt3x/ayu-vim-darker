@@ -1,6 +1,10 @@
 # Ayu Vim Darker
 
-This repository is a fork of [ayu-vim](https://github.com/ayu-theme/ayu-vim), with an extra `darker` theme, since the original `dark` isn't quite dark enough for me.
+This repository is a fork of [ayu-vim](https://github.com/ayu-theme/ayu-vim), with an extra `darker` theme.
+
+![comparison](https://user-images.githubusercontent.com/21986859/136876927-4ca06322-965e-433a-b989-fdde5f09e304.png)
+
+Below are the themes that are directly from the original version.
 
 ![ayu-vim](http://i.imgur.com/7vnF4Na.png)
 
